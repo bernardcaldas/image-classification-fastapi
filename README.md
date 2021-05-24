@@ -4,7 +4,7 @@ Serving image classification model using FastApi
 
 
 ## Results
-
+![Screenshot](/fastapi.gif)
 ## About
 
 For this project we used keras.applications models as samples
